@@ -1,0 +1,4 @@
+== Mewsic Red5 instance
+ 
+This app is part of Mewsic, please see http://github.com/mewsic/mewsic for more details.
+
